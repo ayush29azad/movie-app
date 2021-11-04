@@ -18,7 +18,7 @@ export class MovieCard extends Component
            <div className = "plot">{movie.Plot}</div>
            <div className = "footer">
            <div className = "rating">{movie.imdbRating}</div>
-           <button className="favorite-btn">Favourite</button>
+           <button className="favourite-btn">Favourite</button>
           </div>
             </div>
 
